@@ -10,7 +10,7 @@
 **Как запустить:**  
 
 Клонируйте репозиторий:  
-git clone https://github.com/your_username/flood-prediction.git  
+git clone [https://github.com/your_username/flood-prediction.git  ](https://github.com/Mortelnik/navodnenie)
 
 Установите зависимости:  
 pip install -r requirements.txt  

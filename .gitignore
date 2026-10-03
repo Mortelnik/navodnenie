@@ -26,3 +26,5 @@ reports/figures/*.png
 .pytest_cache/
 .ruff_cache/
 .coverage
+
+reports/*.html

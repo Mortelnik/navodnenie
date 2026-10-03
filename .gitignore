@@ -5,14 +5,15 @@ data/processed2/
 backups/
 __pycache__/
 *.pyc
+*.py[cod]
 catboost_info/
 .vscode/
 .idea/
 .ipynb_checkpoints/
 *.swp
 .venv/
-env/
 venv/
+env/
 ENV/
 .DS_Store
 Thumbs.db
@@ -22,3 +23,8 @@ Thumbs.db
 *.onnx
 submission.csv
 reports/figures/*.png
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+reports/*.html
